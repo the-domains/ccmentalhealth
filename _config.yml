@@ -1,0 +1,28 @@
+name: CCMentalHealth
+favicon: null
+layout_spectrum: 0.2994598150253296
+typography_spectrum: 0.013426279416307807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1696647685021162
+  lightness: 0.24616681691259146
+  saturation: 0.033700998639687896
+  rhythmicContrast: 0.7117140230257064
+purpose: []
